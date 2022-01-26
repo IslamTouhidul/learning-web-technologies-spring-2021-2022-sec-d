@@ -1,0 +1,21 @@
+<overview>
+    <comapany id="11">
+        <name>Samsung</name>
+        <UnitPrice>35000</UnitPrice>
+        <stock>50</stock>
+        <status>1</status>
+    </comapany>
+    <comapany id="20">
+        <name>HTC</name>
+        <UnitPrice>65300</UnitPrice>
+        <stock>35</stock>
+        <status>0</status>
+    </comapany>
+    <comapany id="23">
+        <name>Nokia</name>
+        <UnitPrice>25100</UnitPrice>
+        <stock>100</stock>
+        <status>1</status>
+    </comapany>
+
+</overview>
