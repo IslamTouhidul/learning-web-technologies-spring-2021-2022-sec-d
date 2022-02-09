@@ -9,7 +9,7 @@
 
 
     echo "The area of the rectangle having sides ". $lenght. " And ".$width. " is ".$area. "<br>";
-    echo "The Perimeter of the rectangle having sides ". $lenght. " And ".$width. " is ".$p;
+    echo "The Perieter of the rectangle having sides ". $lenght. " And ".$width. " is ".$p;
 
 
 ?>
